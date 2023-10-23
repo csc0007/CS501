@@ -61,9 +61,4 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
-
-    private fun checkAnswer(userAnswer:Boolean){
-
-    }
 }
